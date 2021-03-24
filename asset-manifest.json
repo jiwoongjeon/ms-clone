@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ms-clone/static/css/main.209c7af3.chunk.css",
+    "main.js": "/ms-clone/static/js/main.daa9e902.chunk.js",
+    "main.js.map": "/ms-clone/static/js/main.daa9e902.chunk.js.map",
+    "runtime-main.js": "/ms-clone/static/js/runtime-main.d4e212f4.js",
+    "runtime-main.js.map": "/ms-clone/static/js/runtime-main.d4e212f4.js.map",
+    "static/js/2.d20c579f.chunk.js": "/ms-clone/static/js/2.d20c579f.chunk.js",
+    "static/js/2.d20c579f.chunk.js.map": "/ms-clone/static/js/2.d20c579f.chunk.js.map",
+    "index.html": "/ms-clone/index.html",
+    "static/css/main.209c7af3.chunk.css.map": "/ms-clone/static/css/main.209c7af3.chunk.css.map",
+    "static/js/2.d20c579f.chunk.js.LICENSE.txt": "/ms-clone/static/js/2.d20c579f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ms-clone/static/media/hero_1600.6301f933.png",
+    "static/media/hero_539.96c15a3a.png": "/ms-clone/static/media/hero_539.96c15a3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e212f4.js",
+    "static/js/2.d20c579f.chunk.js",
+    "static/css/main.209c7af3.chunk.css",
+    "static/js/main.daa9e902.chunk.js"
+  ]
+}
